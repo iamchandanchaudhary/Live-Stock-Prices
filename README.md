@@ -1,5 +1,5 @@
 # 📈 Live Stock Prices
-A real-time stock market tracking application that provides live stock prices, market trends, and financial insights through an interactive and user-friendly interface.
+A real-time stock market tracking application that provides live stock prices.
 
 ## 🛠️ Tech Stack
 ### Frontend
